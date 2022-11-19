@@ -86,8 +86,9 @@ Muller, B.R., Smith, W.A.P., 2020. A Hierarchical Loss for Semantic Segmentation
 
 @inproceedings{muller2020hierarchical,
   title={A Hierarchical Loss for Semantic Segmentation},
-  author={Muller, Bruce R and Smith, William AP},
-  booktitle={VISIGRAPP (4: VISAPP)},
+  author={Muller, Bruce and Smith, William A. P.},
+  booktitle={Proc. of the International Conference on Computer Vision Theory and Applications (VISAPP)},
+  volume={4},
   pages={260--267},
   year={2020}
 }
