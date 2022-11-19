@@ -84,6 +84,14 @@ We would like to thank Meet Shah (https://github.com/meetshah1995/pytorch-semseg
 
 Muller, B.R., Smith, W.A.P., 2020. A Hierarchical Loss for Semantic Segmentation. In Proceedings of the 15th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications VISAPP 2020. SCITEPRESS.
 
+@inproceedings{muller2020hierarchical,
+  title={A Hierarchical Loss for Semantic Segmentation},
+  author={Muller, Bruce R and Smith, William AP},
+  booktitle={VISIGRAPP (4: VISAPP)},
+  pages={260--267},
+  year={2020}
+}
+
 Please feel free to get in touch if your are interested in our research! (brm512@york.ac.uk)
 
 
